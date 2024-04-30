@@ -4,6 +4,7 @@
 <h1>Site.</h1>
 <a href="https://www.linkedin.com/in/carleone-santos/" target="_blank">
 <img src="https://github.com/Carleone-Souza-Santos/Proj.Hamburgueria.Carl/blob/master/arsset/social_media_online_linked_in_icon-icons.com_59694.png?raw=true"  alt="linkdin"></a> 
+<a href="https://carleone-souza-santos.github.io/coffee/" target="_blank">
 <img src="https://github.com/Carleone-Souza-Santos/Proj.Hamburgueria.Carl/blob/master/arsset/social_media_online_linked_in_icon-icons.com_59694.png?raw=true"  alt="site-coofer"></a> 
 </div>
 
@@ -17,7 +18,7 @@
 <li>Github</li>
 <li>Figma</li>
 
-<img src=""/>
+<img src="https://github.com/Carleone-Souza-Santos/coffee/blob/master/assets/we.png" alt="website-image-presentation"/>
 
 <h2>💻 Projeto</h2>
 Planejamento e Pesquisa, Design e 
