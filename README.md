@@ -21,7 +21,7 @@
 <img src="https://github.com/Carleone-Souza-Santos/coffee/blob/master/assets/we.png" alt="website-image-presentation"/>
 
 <h2>💻 Projeto</h2>
-Desenvolvimento com planejamento e Pesquisa. 
+Desenvolvimento com planejamento e pesquisa. 
 ultilizando um design responsivo com uma arquitetura de informação e desenvolvimento
 com aplicações de teste e verificação final do conteúdo.
 
