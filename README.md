@@ -1,12 +1,22 @@
-<h1>Site</h1>
-<p>Projeto DEVCLUB na veia.</p>
+<img src = "https://github.com/Carleone-Souza-Santos/Portf-lio/blob/master/src/assets/imgUserjob.png?raw=true" alt="img user"/>
+
+<div>
+<h1>Site.</h1>
+<a href="https://www.linkedin.com/in/carleone-santos/" target="_blank">
+<img src="https://github.com/Carleone-Souza-Santos/Proj.Hamburgueria.Carl/blob/master/arsset/social_media_online_linked_in_icon-icons.com_59694.png?raw=true"  alt="linkdin"></a> 
+<img src="https://github.com/Carleone-Souza-Santos/Proj.Hamburgueria.Carl/blob/master/arsset/social_media_online_linked_in_icon-icons.com_59694.png?raw=true"  alt="site-coofer"></a> 
+</div>
+
 
 <h2>🚀 Tecnologias</h2>
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+<p>Tecnologias ultilizadas no front-end.</p>
 
-<li>HTML e CSS</li>
-<li>Git e Github</li>
+<li>HTML</li>
+<li>CSS</li>
+<li>Git</li>
+<li>Github</li>
 <li>Figma</li>
+
 <img src=""/>
 
 <h2>💻 Projeto</h2>
