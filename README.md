@@ -26,9 +26,12 @@ Development with planning and research.
 using responsive design with an information and development architecture
 with test applications and final content verification.
 
-<h2>🔖 Layout</h2>
+##
+<h2>🔖Layout</h2> 
+
 The concise format is useful for communicating the essential information of a project or product quickly and clearly.
 
+##
 <h2>📝 License</h2>
 
 This source code is being made available under the MIT license. The MIT License is an open source software license that allows you to use, modify, and distribute this software for both commercial and non-commercial purposes, subject to certain conditions. This license is known for being one of the most permissive and flexible, allowing you to use and adapt the code according to your needs.
