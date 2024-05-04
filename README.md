@@ -27,7 +27,7 @@ using responsive design with an information and development architecture
 with test applications and final content verification.
 
 <h2>🔖 Layout</h2>
-Layout developed with simplicity and responsiveness in mind.
+The concise format is useful for communicating the essential information of a project or product quickly and clearly.
 
 <h2>📝 License</h2>
 
